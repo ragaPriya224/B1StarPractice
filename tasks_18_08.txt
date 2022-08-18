@@ -1,0 +1,25 @@
+using for loop, print numbers from 1 to 10
+using for loop, print numbers from 10 to 1
+store your name  in a variable and print it
+using do while loop, and print numbers 1 to 5
+use while loop, and print numbers 1 to 5
+create a method to add two numbers and return it 
+Switch problems:
+try switch case for printing the values for grade.. suppose if grade is A, print someting like, good or above 90%, something like that.. try to have 4-5 cases and default block as well 
+Question 1
+Write a program with a method named getTotal that accepts two integers as an argument and return its sum. Call this method from main( ) and print the results.
+Question 2
+Write a method named isEven that accepts an int argument. The method should return true if the argument is even, or false otherwise
+Question 3
+Write a value-returning method, isVowel that returns the value true if a given character is a vowel, and otherwise returns false. In main() method accept a string from user and count number of vowels in that string
+create a class named Food with some variables and methods and then  create a object in same class, try to access these methods and variables
+create a class called Pizza and create a object for food class and try to acces the variables and methods in it. 
+----------
+1. create a class named dog and have any fields like colour, age , cost anything.. and try creating atleast 2- 3 objects with name like germanshepherd, dalmation, anything
+try to create a default constructor and a parameterised constructor and use it in your class
+-------------------
+Do coding to achieve method overloading, method overriding
+----------------
+do coding to achieve encapsulation. 
+
+--------------------that's it :) --------------------------------------------------------
