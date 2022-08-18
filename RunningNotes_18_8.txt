@@ -15,3 +15,10 @@ class A   = parent class, base class, super class ->. class wose feature are inh
 
 
  class B	= child class, sub class , derived class, extended class  class that inherites other class
+ 
+ ----------------------
+ two diff ways of achieving abstraction?
+ 
+ 
+ 1. abstract class
+ 2. interface 
