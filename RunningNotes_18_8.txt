@@ -22,3 +22,11 @@ class A   = parent class, base class, super class ->. class wose feature are inh
  
  1. abstract class
  2. interface 
+ 
+ ------------------
+ In method overriding, you should not reduce the visibility 
+ parent    public     |||   protected 
+ 
+ child     protected  |||    public
+ 
+ result     XXXX              OK 
