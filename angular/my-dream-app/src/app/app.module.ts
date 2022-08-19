@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 import { PracticeComponent } from './practice/practice.component';
 import { DepartmentComponent } from './department/department.component';
 import { StudentComponent } from './student/student.component';
-
+import { RouterModule } from '@angular/router';
 @NgModule({
   declarations: [
     AppComponent,
@@ -19,8 +19,11 @@ import { StudentComponent } from './student/student.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
-     
+    FormsModule,
+    RouterModule.forRoot([
+      {path: 'department', component: DepartmentComponent},
+      {path: 'student-data', component: StudentComponent},
+    ]),
 
   ],
   providers: [],
