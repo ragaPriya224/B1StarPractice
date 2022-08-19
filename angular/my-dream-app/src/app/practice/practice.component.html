@@ -53,3 +53,35 @@
 
 
 <button  (click)="fireEvent()">sending Event</button>
+<p>Pipe: transform data before displaying in view only not in class
+</p>
+{{city}}
+{{city | lowercase}}
+<div>{{city | uppercase}}  </div>
+<div>{{city | titlecase}}  </div>
+<div>{{city | slice:3}}  </div>
+<div>{{city | slice:3:7}}  </div>
+<p>JSON PIPE BELOW </p>
+{{person | json}}
+<p>number PIPE BELOW </p>
+
+<div>{{5.678 | number : '1.2-3'}}</div>
+<div>{{5.678234324234 | number : '1.2-3'}}</div>
+<div>{{5.678234324234 | number : '4.2-7'}}</div>
+
+<p>percentage  PIPE BELOW </p>
+
+{{0.25 | percent}}
+<p>currency   PIPE BELOW </p>
+<div>{{0.25 | currency}} </div>
+<div>{{0.25 | currency:'INR'}} </div>
+<div>{{0.25 | currency:'INR':'code'}} </div>
+
+<p>Date   PIPE BELOW </p>
+{{date}}
+<h2>{{date | date :'short'}}</h2>
+<h2>{{date | date :'shortDate'}}</h2>
+<h2>{{date | date :'shortTime'}}</h2>
+<h2>{{date | date :'medium'}}</h2>
+<p>please try medium, mediumDate, mediumTime,long,LongDate, longTime</p>
+

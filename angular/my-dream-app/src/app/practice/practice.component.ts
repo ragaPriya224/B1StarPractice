@@ -12,7 +12,14 @@ export class PracticeComponent implements OnInit {
   display = false;
   public color = "blue";
   public iceCream = ["vanilla","choclate","pista","strawberry"];
+  public city = "code here";
 
+  public person = {
+    "firstName": "abc",
+    "lastName": "xyz"
+  }
+
+  public date = new Date();
 
   @Input('parentData')
   public newLaptopName: any;
