@@ -9,6 +9,7 @@ export class PracticeComponent implements OnInit {
 
   public name = "spidy";
   carName = " hey it's a nano";
+  display = false;
 
   constructor() { }
 
