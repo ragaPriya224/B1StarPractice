@@ -1,4 +1,4 @@
 <p> welcome to angular team </p>
-
-<app-practice [parentData] = "laptopName"></app-practice>
+<h1>{{message}}</h1>
+<app-practice  (childEvent) = "message=$event" [parentData] = "laptopName" ></app-practice>
 

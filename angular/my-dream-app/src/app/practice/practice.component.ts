@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 
 @Component({
   selector: 'app-practice',
@@ -17,6 +17,9 @@ export class PracticeComponent implements OnInit {
   @Input('parentData')
   public newLaptopName: any;
 
+  @Output()
+  public childEvent = new EventEmitter();
+
   
   constructor() { }
 
@@ -31,5 +34,11 @@ export class PracticeComponent implements OnInit {
     console.log('**********************');
     console.log(event);
   }
+
+  fireEvent(){
+    console.log("event triggered");
+    this.childEvent.emit("hey, I'm from Dell  version 2.0");
+  }
+
 
 }
