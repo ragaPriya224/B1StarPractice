@@ -6,11 +6,15 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PracticeComponent } from './practice/practice.component';
+import { DepartmentComponent } from './department/department.component';
+import { StudentComponent } from './student/student.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    PracticeComponent
+    PracticeComponent,
+    DepartmentComponent,
+    StudentComponent
   ],
   imports: [
     BrowserModule,
