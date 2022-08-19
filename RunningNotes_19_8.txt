@@ -1,4 +1,4 @@
-nnpm -> node package manager 
+npm -> node package manager 
 
 version:
 
@@ -26,6 +26,43 @@ ng serve  / npm start   -> run your app
 Localhost:4200 
 
 3. Editor : Visual studio code 
+
+
+------ARCHITECTURE-------------
+
+1. Module 
+Component
+Service
+Metadata 
+
+
+
+1. module
+
+angular app collection of modules
+Root module -> app module 
+usermodule, admin module
+module -? represents feature area 
+
+module = component +services 
+
+2. component
+root component -> app component 
+usage: controls portion of view in browser 
+
+3. service 
+
+business logics 
+-----------
+package.json -> contains dependencies/dev dependencies installed in node modules folder
+
+npm start -> will internally call ng serve 
+
+Working Flow: m
+Main.ts(Entry point)
+-> App module.ts
+    -> app.component.ts
+        -> app.component.html 
 
 
 
