@@ -63,6 +63,12 @@ Main.ts(Entry point)
 -> App module.ts
     -> app.component.ts
         -> app.component.html 
+---------------
+@Component({
+  selector: 'app-root',                 -> TAG
+  templateUrl: './app.component.html',   -> HTML
+  styleUrls: ['./app.component.css']      -> css
+})
 
 
 
