@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-practice',
@@ -13,6 +13,11 @@ export class PracticeComponent implements OnInit {
   public color = "blue";
   public iceCream = ["vanilla","choclate","pista","strawberry"];
 
+
+  @Input('parentData')
+  public newLaptopName: any;
+
+  
   constructor() { }
 
   ngOnInit(): void {
@@ -26,4 +31,5 @@ export class PracticeComponent implements OnInit {
     console.log('**********************');
     console.log(event);
   }
+
 }
