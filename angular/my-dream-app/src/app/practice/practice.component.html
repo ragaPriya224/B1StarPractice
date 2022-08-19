@@ -33,3 +33,10 @@
 <h2 *ngIf = "display" >
     it's friday 
 </h2>
+<h2>ng switch example is below: </h2>
+
+<div [ngSwitch] = "color">
+<div  *ngSwitchCase = "'red'">YOU PICKED RED COLOUR</div>
+<div  *ngSwitchCase = "'yellow'">YOU PICKED yellow COLOUR</div>
+<div  *ngSwitchCase = "'green'">YOU PICKED green COLOUR</div>
+</div>
