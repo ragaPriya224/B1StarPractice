@@ -76,9 +76,15 @@ c-> component
 practice -> name
 ------------
 selector  ways: custom html tag that can be used to represent(render) this component . 
+TEMPLATE URL/TEMPLATE
+---------------
+INTERPOLATION : BIND DATA of class to template
 
 
-
+directive:
+   structural  -> ngIf, ngFor, ngswitch,... 
+   attribute   -> ngclass, ngstyle, ngmodel, 
+   
 
 
 
