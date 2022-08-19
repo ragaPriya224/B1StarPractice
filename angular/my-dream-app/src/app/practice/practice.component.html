@@ -43,6 +43,6 @@
 </div>
 
 <h2>ng For  example is below: </h2>
-<div *ngFor = "let flavour of iceCream">
-    <h2>{{flavour}}</h2>
+<div *ngFor = "let flavour of iceCream; index as i ">
+    <h2>{{i}}{{flavour}}</h2>
 </div>
