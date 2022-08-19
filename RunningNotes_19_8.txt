@@ -70,6 +70,15 @@ Main.ts(Entry point)
   styleUrls: ['./app.component.css']      -> css
 })
 
+ng g c practice
+g -> generate
+c-> component 
+practice -> name
+------------
+selector  ways: custom html tag that can be used to represent(render) this component . 
+
+
+
 
 
 
