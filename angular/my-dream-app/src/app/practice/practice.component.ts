@@ -7,11 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PracticeComponent implements OnInit {
 
-  public name = "user";
-  
+  public name = "spidy";
+
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  greetUser(){
+    return " hey " +this.name;
   }
 
 }
