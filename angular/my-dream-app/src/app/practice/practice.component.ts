@@ -10,7 +10,7 @@ export class PracticeComponent implements OnInit {
   public name = "spidy";
   carName = " hey it's a nano";
   display = false;
-  public color = "green";
+  public color = "blue";
 
   constructor() { }
 
