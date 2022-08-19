@@ -85,7 +85,7 @@ directive:
    structural  -> ngIf, ngFor, ngswitch,... 
    attribute   -> ngclass, ngstyle, ngmodel, 
    
-   NOTE: KINDLY GO THROUGH ONLY THE CONTENTS THAT WE SAW IN PPT,OTHER THAN THAT, THERE WILL BE SOME EXTRA STUFFS, IGNORE IT 
+   NOTE: I have attached ppt in github.KINDLY GO THROUGH ONLY THE CONTENTS THAT WE SAW IN PPT,OTHER THAN THAT, THERE WILL BE SOME EXTRA STUFFS, IGNORE IT 
    Note: For routing concept, don't refer the ppt, instead check the github commit 
    ----------TASKS---------------
    1. Team, try to do the exact ditto. 
