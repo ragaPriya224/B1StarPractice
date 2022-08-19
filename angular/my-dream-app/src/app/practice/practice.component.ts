@@ -11,6 +11,7 @@ export class PracticeComponent implements OnInit {
   carName = " hey it's a nano";
   display = false;
   public color = "blue";
+  public iceCream = ["vanilla","choclate","pista","strawberry"];
 
   constructor() { }
 
