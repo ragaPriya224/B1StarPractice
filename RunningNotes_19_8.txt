@@ -85,6 +85,19 @@ directive:
    structural  -> ngIf, ngFor, ngswitch,... 
    attribute   -> ngclass, ngstyle, ngmodel, 
    
+   
+   ----------TASKS---------------
+   1. Team, try to do the exact ditto. 
+   Try creating a angular application. try creating two component. Achieve all the concepts, we tried..like do ngif, ngfor, interpolation, etc
+at the end, try routing concept as well. Try creating two components each named, Book, Mobile
+When we hit localhost:4200/mobile-details        , mobile component should be loaded
+when we hit localhost:4200/book                  , book component should be loaded
+
+Note: For routing concept, don't refer the ppt, instead check the github commit 
+
+   
+   
+   
 
 
 
