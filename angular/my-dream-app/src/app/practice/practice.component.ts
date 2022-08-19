@@ -19,7 +19,8 @@ export class PracticeComponent implements OnInit {
     return " hey " +this.name;
   }
 
-  onClick(){
+  onClick(event: any){
     console.log('**********************');
+    console.log(event);
   }
 }
