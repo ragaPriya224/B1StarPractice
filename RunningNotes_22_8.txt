@@ -20,5 +20,9 @@ npm start
 ----------------------------
 http://localhost:3000/
 ---------------------------------------
+2. Create react app => 
+npx create-react-app contact-app 
+Lots of dependencies added
+Also says, what all commands can be added
 
 
