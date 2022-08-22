@@ -47,4 +47,9 @@ function App() {
 
 --------- <div>Hello react team  !!</div>    => jsx
 jsx -> combo of js +html 
+------------------------------------------------TASKS-----------------------------
 
+
+
+create a react app with  any name of your choice and create two components - class and function. 
+Return something in both 
