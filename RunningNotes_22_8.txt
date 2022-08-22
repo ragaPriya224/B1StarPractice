@@ -1,0 +1,18 @@
+REACT 
+--------------
+
+Necessary Setup:
+
+
+1. node js 
+NODE JS -INSTALL FROM OFFICIAL WEBSITE. CLICK NEXT->NEXT
+https://nodejs.org/en/download/
+2.OPEN TERMINAL node -v
+3. IDE : Visual Studio Code 
+----------------------------
+Documentation: https://reactjs.org/
+https://github.com/facebook/react
+
+-----------------------------------------------------
+
+
