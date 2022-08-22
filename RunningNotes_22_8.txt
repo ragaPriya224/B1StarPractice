@@ -14,5 +14,11 @@ Documentation: https://reactjs.org/
 https://github.com/facebook/react
 
 -----------------------------------------------------
+npx create-react-app demo-app
+cd demo-app
+npm start 
+----------------------------
+http://localhost:3000/
+---------------------------------------
 
 
