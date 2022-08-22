@@ -24,5 +24,27 @@ http://localhost:3000/
 npx create-react-app contact-app 
 Lots of dependencies added
 Also says, what all commands can be added
+---------------------------------------------------------
 
+React components :
+component is a basic block of react feature. 
+Component is a piece of reusable code which can be used at any point 
+   & it’s an individual piece of code which has it’s own inputs and own outputs and own functionality.
+   
+ TYPES:
+ 1. Functional components
+ 2. class components. 
+ 
+ Functional components 
+ 
+ 
+function App() {
+  return (
+   <div>Hello react team  !!</div>
+   
+  );
+}
+
+--------- <div>Hello react team  !!</div>    => jsx
+jsx -> combo of js +html 
 
