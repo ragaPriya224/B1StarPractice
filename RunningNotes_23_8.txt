@@ -1,0 +1,9 @@
+Request,
+Response
+client-server relationship
+
+
+client -> request for google.com
+server -> responds with google.com 
+http, https
+http status code
