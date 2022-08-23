@@ -36,3 +36,4 @@ loosecoupling  -> desktop
 tight coupling  -> laptop 
 
 
+Netflix is a pioneer in microservices 
