@@ -5,5 +5,10 @@ client-server relationship
 
 client -> request for google.com
 server -> responds with google.com 
+
+biryani -> static request(requesting for something that is already available )
+fresh juice -> dynamic request 
+
+
 http, https
 http status code
