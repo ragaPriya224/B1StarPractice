@@ -37,3 +37,14 @@ tight coupling  -> laptop
 
 
 Netflix is a pioneer in microservices 
+
+
+here are the following components of microservices:
+Spring Cloud Config Server   -> for external configuration 
+Netflix Eureka Naming Server -> discovery server
+Hystrix Server -> fault tolerance 
+Netflix ZuulAPI Gateway Server-> gateway server, from where all client request pass through 
+Netflix Ribbon -> provides client side balancing algo
+Zipkin Distributed Tracing Server -> send, receive, visualize traces 
+----------------------------------------------------------------------------------------
+
