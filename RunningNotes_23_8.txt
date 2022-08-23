@@ -11,4 +11,12 @@ fresh juice -> dynamic request
 
 
 http, https
+HTTPs -> more secure
+
 http status code
+1Xx   -> informational
+2xx   ->success
+3xx   -> redirection
+4xx   -> client error 
+5xx   -> server error 
+
