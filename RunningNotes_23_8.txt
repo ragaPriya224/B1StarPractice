@@ -32,5 +32,7 @@ architecture -> monolithic, microservices
 Think  as a one big chunk of code  -> monolithic architecture
 breaking them up into smaller parts -> microservices architecture 
 
+loosecoupling  -> desktop 
+tight coupling  -> laptop 
 
 
