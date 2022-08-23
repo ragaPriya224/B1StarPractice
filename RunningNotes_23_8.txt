@@ -54,4 +54,9 @@ Zipkin Distributed Tracing Server -> send, receive, visualize traces
 
 discussed about the ports and the url . 
 ---------------------
+TASKS--------------
 
+1. what is microservice architecture?
+2. what are the advantages of microservices 
+3. write down the port of microservices components
+4. what are the  components of microservices
