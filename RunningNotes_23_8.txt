@@ -32,6 +32,10 @@ architecture -> monolithic, microservices
 Think  as a one big chunk of code  -> monolithic architecture
 breaking them up into smaller parts -> microservices architecture 
 
+
+mono->  single repo largeapp
+micro-> many repo   micro services 
+
 loosecoupling  -> desktop 
 tight coupling  -> laptop 
 
@@ -47,4 +51,7 @@ Netflix ZuulAPI Gateway Server-> gateway server, from where all client request p
 Netflix Ribbon -> provides client side balancing algo
 Zipkin Distributed Tracing Server -> send, receive, visualize traces 
 ----------------------------------------------------------------------------------------
+
+discussed about the ports and the url . 
+---------------------
 
