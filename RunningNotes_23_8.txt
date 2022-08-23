@@ -20,3 +20,8 @@ http status code
 4xx   -> client error 
 5xx   -> server error 
 
+dev, testing, deployment 
+environments:
+
+local, dev ,qa, stage , prod  
+
