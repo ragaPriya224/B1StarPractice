@@ -77,7 +77,12 @@ create scalable, secure
 spring framework base for springboot, spring cloud   
 
 
+DI:
 
+which object we're depending, that object we wohn't be creating. 
+If we create it by ourselves, it is tight coupling. so we should avoid tight coupling. 
+
+In order to avoid coupling, 
 
      
      
