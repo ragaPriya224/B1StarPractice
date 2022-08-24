@@ -97,3 +97,31 @@ DATA ACCESS FRAMEWORK
 
 
 https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/overview.html
+------------------------------------------
+
+orm- OBJECT RELATIONAL MAPPING
+
+
+CORE CONTAINER
+     core -> core of f/w such as di, ioc
+     beans -> provides bean factory 
+     context -> appcontext is core part of context module
+     EL ->     to query and manipulate 
+DATA ACCESS/ INTEGRATION
+   handle data access and transactions
+   jdbc -> PROVIDES A  abstraction layer 
+   ORM -> object relational mapping eg: jpa, hibernate
+   OXM -> object/xml mapping
+   JMS -> java messaging service .
+   
+WEB:
+   portlet -> provides mvc implementation
+   web -> spring web -> provides web oriented features
+   servlet -> spring webmvc -> contains mvc, rest implementations
+   
+ AOP -> aspect orientated programming 
+ instrumentation -> class loader implementations
+ test -> test module thatsupport junit / integration testing 
+   
+     
+     
