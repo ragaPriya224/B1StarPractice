@@ -94,3 +94,6 @@ JDBC ->  JPA, hibernate
 DATA ACCESS FRAMEWORK 
 
 4. follow mvc pattern - MODEL VIEW CONTROLLER 
+
+
+https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/overview.html
