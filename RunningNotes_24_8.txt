@@ -53,9 +53,9 @@ configuration tough job
 
 
 
-biscuit - shop -- supermarket
-JAR     - internet -> maven 
-
+biscuit - paper - shop -- supermarket
+JAR     - POM.xml  internet -> maven 
+project object model 
 
 SPRING FEATUREs:
 
@@ -123,5 +123,38 @@ WEB:
  instrumentation -> class loader implementations
  test -> test module thatsupport junit / integration testing 
    
-     
+   
+   ----------------
+   maven
+   
+   moth
+   
+   
+   
+   
+   diff ways of creating spring project
+   
+   1. spring initializr
+   2. create from ide 
+   3. cli 
+   
+     ------------------------------
+Project -> Maven Project
+
+Language -> Maven Project
+SpringBoot -> 2.7.3
+Project Metadata
+ Group  -> package name  - India.Hdfc
+ Artifact -> project name  - sales 
+Packaging -> WAR
+Java    -> 17
+Dependencies: whatever dependencies you need, as of now use spring web 
+
+--------------------------------------
+After this -> GenerateProject -> download in local
+Go to IDE -> right click -> import -> Maven -> Existing maven projects -> Browse the location -> Finish 
+
+--------------------------
+M   J ->   Maven  Java Project 
+
      
