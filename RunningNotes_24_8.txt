@@ -64,12 +64,14 @@ plain old java object
 
 class -> private variables - public getter/ setter 
 
-2. DI
+2.IOC ->  DI
 3. Rest api support
 4. follow mvc pattern
 5. secure application 
 6. batch 
-7.  AOP.
+7.  AOP. - loggin, caching, authentication, transaction management etc. 
+8. SPRING TEST FRAMEWORKS 
+ 
 
 
 create scalable, secure 
@@ -86,5 +88,9 @@ In order to avoid coupling,
 
 REST API SUPPORT 
 
+DB? database - to store / retrieve data /manipulate data
+JDBC ->  JPA, hibernate 
 
-     
+DATA ACCESS FRAMEWORK 
+
+4. follow mvc pattern - MODEL VIEW CONTROLLER 
