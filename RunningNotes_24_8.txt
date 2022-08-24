@@ -1,1 +1,48 @@
 SPRING
+JAR
+WAR\
+
+
+h2db 
+JAR -> JAva Archive file 
+     - zip file containing java class files 
+     
+WAR - Web Archive Files 
+
+java -> oracle, open source
+  profit? 
+     that company - 1 solution 
+     others       -> 20+ solutions 
+   That's why community driven . 
+    parallely developers will also work and gve many class/ packages i.e., framework 
+    collection framework 
+    
+  community drive f/w -> powerful, on trend 
+  company driven f/w > outdated. 
+  youtube -> may be 
+  film -> 1 and half -> outdated.
+  
+  community drive f/w
+     struts 
+     hibernate
+     spring 
+   The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.
+   
+   Java-based enterprise applications -> API, website, etc
+    deployment platform. -> linux, unix, mac, windows
+
+Languages: Kotlin, Groovy, dynamic languages.
+
+
+Spring mvc, spring boot f/w
+
+Spring f/w integrates with other f/w 
+
+TDD? -> Test driven framework
+
+
+
+
+
+     
+     
