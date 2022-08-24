@@ -157,4 +157,11 @@ Go to IDE -> right click -> import -> Maven -> Existing maven projects -> Browse
 --------------------------
 M   J ->   Maven  Java Project 
 
+
+--------------------TASKS:--------------------
+
+1. create a spring project from spring initializr
+2. create spring project from ide 
+3. create components like home, internet connection... may be something like restaurant and pizza r something like that(optional )
+4. write down, the features of spring framework 
      
