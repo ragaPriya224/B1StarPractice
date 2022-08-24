@@ -1,4 +1,11 @@
 SPRING
+TOPICS TO BE COVERED:
+What is Spring Framework
+Where is it used
+What is the basic structures of Spring
+Setting up a Spring Project
+
+
 JAR
 WAR\
 
