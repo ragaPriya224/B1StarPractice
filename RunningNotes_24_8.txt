@@ -48,8 +48,27 @@ Spring f/w integrates with other f/w
 TDD? -> Test driven framework
 
 
+configuration model -> 
+configuration tough job 
 
 
+
+biscuit - shop -- supermarket
+JAR     - internet -> maven 
+
+
+SPRING FEATUREs:
+
+1. POJO 
+plain old java object
+
+class -> private variables - public getter/ setter 
+
+2. DI
+3. Rest api support
+4. follow mvc pattern
+5. secure application 
+6. batch 
 
      
      
