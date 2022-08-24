@@ -44,7 +44,7 @@ Languages: Kotlin, Groovy, dynamic languages.
 Spring mvc, spring boot f/w
 
 Spring f/w integrates with other f/w 
-
+light weight f/w 
 TDD? -> Test driven framework
 
 
@@ -69,6 +69,15 @@ class -> private variables - public getter/ setter
 4. follow mvc pattern
 5. secure application 
 6. batch 
+7.  AOP.
+
+
+create scalable, secure 
+
+spring framework base for springboot, spring cloud   
+
+
+
 
      
      
