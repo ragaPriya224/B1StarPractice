@@ -129,5 +129,8 @@ python -> .py
 online editor: https://pythontutor.com/render.html#mode=display
 
 
-
+----------------------------TASKS--------------------------
+1. write a print statement in python
+2. check the type of a variable
+3. 
 
