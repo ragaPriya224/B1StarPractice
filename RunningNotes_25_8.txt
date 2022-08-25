@@ -12,5 +12,7 @@ interpreted -> which means line-by-line execution of code.
 
 Interactive -> which means, it returns the result of the statement if correct else it returns the error message that helps in debugging 
 
+general purpose -> which means it can be used to build just about anything. 
+
 
 
