@@ -1,2 +1,16 @@
 Compiler
 sync vs async
+
+PYTHON 
+
+WHAT IS PYTHON?
+--------------
+
+Python is a interpreted, interactive, general purpose , object-oriented high level programming language.
+
+interpreted -> which means line-by-line execution of code.  
+
+Interactive -> which means, it returns the result of the statement if correct else it returns the error message that helps in debugging 
+
+
+
