@@ -45,6 +45,8 @@ PySpark,VS code, jupyter, anaconda, etc
 Many PC's, Macs  will have python already installed. to check        Python --version 
 IF not, download from here     https://www.python.org/
 
+as of now use this : online editor: https://pythontutor.com/render.html#mode=display
+
 
 
 What is the difference between statically typed and dynamically typed languages?
