@@ -1,3 +1,12 @@
+TO BE COVERED:
+Python as a language
+
+How is it different from Java and C#?
+
+Where Python programming is used?
+
+The first simple program using Python
+------------------------------------------------------
 Compiler
 sync vs async
 
@@ -51,6 +60,30 @@ Dynamically Typed Language
 
 A language is dynamically typed if the type is associated with run-time values, and not named variables/fields/etc.
 Eg: python, js 
+
+
+What python can do?
+-------------------
+-> used on server to create web apps
+-> connect to db's. Can modify/read files
+-> handle big data and perform complex maths
+
+WHY PYTHON?
+-----------
+-> work on diff platforms
+-> simple syntax similiar to english
+-> few lines 
+
+PYTHON                          VS              JAVA
+dynamically, interpreted                      statically, compiled as well as interpreted
+beginner -friendly                             senior -level
+easier to read/code 
+semicolon not mandatory                           semicolon mndatory at end of every statement 
+
+
+
+
+
 
 
 
