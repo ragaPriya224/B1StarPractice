@@ -14,5 +14,8 @@ Interactive -> which means, it returns the result of the statement if correct el
 
 general purpose -> which means it can be used to build just about anything. 
 
+object-oriented -> which means, it support object-oriented programming feature 
+
+high level programming language.-> which means, it reads like English and is more easy to understand. 
 
 
