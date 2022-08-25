@@ -27,5 +27,10 @@ Designed by Guido van Rossum,
 Released in 1991
 used to build softwares, websites etc. 
 Latest version -> Python 3.10. 2
+Python foundation holds copyright from 2.1 
 
+BEST IDES FOR PYTHON:
+---------------------
 
+PySpark,VS code, jupyter, anaconda, etc
+Python --version 
