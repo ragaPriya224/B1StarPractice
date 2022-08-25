@@ -88,5 +88,10 @@ syntax diff
 
 
 
+java -> .java
+javascript -> .js
+python -> .py 
+
+online editor: https://pythontutor.com/render.html#mode=display
 
 
