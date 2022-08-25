@@ -81,7 +81,10 @@ easier to read/code
 semicolon not mandatory                           semicolon mndatory at end of every statement 
 
 
+where python used
+python vs c#
 
+syntax diff 
 
 
 
