@@ -33,4 +33,5 @@ BEST IDES FOR PYTHON:
 ---------------------
 
 PySpark,VS code, jupyter, anaconda, etc
-Python --version 
+Many PC's, Macs  will have python already installed. to check        Python --version 
+IF not, download from here     https://www.python.org/
