@@ -75,14 +75,33 @@ WHY PYTHON?
 -> few lines 
 
 PYTHON                          VS              JAVA
+-------------------------------------------------------
 dynamically, interpreted                      statically, compiled as well as interpreted
 beginner -friendly                             senior -level
 easier to read/code 
 semicolon not mandatory                           semicolon mndatory at end of every statement 
 
 
+PYTHON VS C#
+------------
+C#
+Based on OOP concepts	
+Statically typed. The compiler will give errors for wrong typecasting
+
+Dependency injection works like a charm.
+More organized and consistent syntax and format
+
+python:
+-------
+supports multi-paradigm programming (OOP, procedural)
+Dynamic type-casting. No need for variable declarations.
+No concept of DI as such, however, you can add customized tags to any object at run time
+
+Simple, easy to read and code, doesn’t contain too many symbols or formats.
+--------------------------------------
+
 where python used
-python vs c#
+
 
 syntax diff 
 
