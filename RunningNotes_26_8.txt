@@ -84,6 +84,37 @@ If a built software is 99% bug-free but it does not follow the user requirement 
 It is not only necessary that software is 99% bug-free but it is also mandatory to fulfill all the customer requirements.
 
 
+--------------------------------------------
+
+ Selenium is an open-source,  automated testing tool  & used to test web applications across various browsers.
+
+
+Selenium is not a single tool. It is a product suite of software consisting of the following components: 
+1. SELENIUM RC
+2. SELENIUM IDE
+3. SELENIUM WEBDRIVER
+4. SELENIUM GRID 
+
+
+1. Selenium Remote Control(RC )
+The reason behind developing Selenium RC was testers who are using Selenium core had to install the whole application under test and the web server on their local computers because there were some restrictions forced by the same-origin policy. 
+To overcome this restriction Paul Hammant came to a decision and developed a server that will act as an HTTP proxy to trick the web browser, so that thinks that Selenium Core and the web application being tested came from the same domain. 
+
+
+
+2. SELENIUM IDE
+It was implemented as a Firefox add-on/plugin and now we can use Selenium IDE on every web browser. 
+
+3. SELENIUM GRID 
+It is a server that allows the test to use web browser instances running on remote machines. 
+It provides the ability to run the test on a remote web browser, which helps to divide a load of testing across multiple machines and it will save enormous time.
+ It allows executing parallel tests across different platforms and operating systems. 
+
+
+4. SELENIUM WEB DRIVER:
+
+ It was the first cross-platform testing framework that could control the browser from the OS level. 
+
 
 
 
