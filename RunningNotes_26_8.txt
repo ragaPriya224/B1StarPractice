@@ -1,6 +1,14 @@
 diff environments 
 testing importance 
 ------------------------------------------
+Testing Concepts
+Stages of Testing
+
+Manual Testing and Automation Testing
+
+Selenium as automation tool
+
+
 
 Software testing is the process of executing a program with the aim of finding the error. 
 To make our software perform well it should be error-free. 
