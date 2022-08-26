@@ -8,3 +8,38 @@ If testing is done successfully it will remove all the errors from the software.
 
 
 
+There are seven principles in software testing: 
+ 
+Testing shows the presence of defects
+Exhaustive testing is not possible
+Early testing
+Defect clustering
+Pesticide paradox
+Testing is context-dependent
+Absence of errors fallacy
+
+
+1.Testing shows the presence of defects
+----------------------------------------
+The goal of software testing is to make the software fail.
+Software testing reduces the presence of defects.
+Software testing talks about the presence of defects and doesn’t talk about the absence of defects.
+Software testing can ensure that defects are present but it can not prove that software is defect-free.
+Even multiple testing can never ensure that software is 100% bug-free. 
+Testing can reduce the number of defects but not remove all defects.
+
+2. Exhaustive testing is not possible
+----------------------------------------
+It is the process of testing the functionality of the software in all possible inputs (valid or invalid) and pre-conditions is known as exhaustive testing. 
+Exhaustive testing is impossible means the software can never test at every test case. 
+It can test only some test cases and assume that the software is correct and it will produce the correct output in every test case.
+If the software will test every test case then it will take more cost, effort, etc., which is impractical.
+
+
+3. 
+
+
+
+
+
+
