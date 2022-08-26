@@ -6,7 +6,18 @@ Software testing is the process of executing a program with the aim of finding t
 To make our software perform well it should be error-free. 
 If testing is done successfully it will remove all the errors from the software. 
 
+-------------
 
+STLC
+
+Requirement Analysis
+Test planning
+Test cases design
+environment setup
+test execution-> once test cases executed, if any defect detected, tester should raise the defects(bugs/issues). Once raised, developer should start working on the bugs and they have to fix the bugs. Once bugs are fixed, tester have to make sure, tat bugs are fixed properly..
+
+After all the raised bugs are fixed, tester should do regression testing 
+test closure
 
 There are seven principles in software testing: 
  
