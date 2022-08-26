@@ -114,6 +114,17 @@ It provides the ability to run the test on a remote web browser, which helps to 
 4. SELENIUM WEB DRIVER:
 
  It was the first cross-platform testing framework that could control the browser from the OS level. 
+ 
+ ---------------------------------------
+ 
+ 
+ 1. what is testing?
+ 2. what are the stages in testing?
+ 3. diff b/w automated and manual testing?
+ 4. what is selenium?
+ 5. why to prefer selenium?
+ 6. diff components of selenium?
+ 
 
 
 
