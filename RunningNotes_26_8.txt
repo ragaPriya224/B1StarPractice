@@ -1,2 +1,10 @@
 diff environments 
 testing importance 
+------------------------------------------
+
+Software testing is the process of executing a program with the aim of finding the error. 
+To make our software perform well it should be error-free. 
+If testing is done successfully it will remove all the errors from the software. 
+
+
+
