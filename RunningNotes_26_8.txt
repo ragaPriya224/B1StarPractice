@@ -47,7 +47,37 @@ It can test only some test cases and assume that the software is correct and it 
 If the software will test every test case then it will take more cost, effort, etc., which is impractical.
 
 
-3. 
+3. Early Testing
+------------------
+To find the defect in the software, early test activity shall be started. 
+The defect detected in the early phases of SDLC will be very less expensive.
+ For better performance of software, software testing will start at the initial phase i.e. testing will perform at the requirement analysis phase.
+ 
+ 4.Defect clustering:
+ --------------------
+ In a project, a small number of modules can contain most of the defects. 
+Pareto Principle to software testing state that 80% of software defect comes from 20% of modules.
+
+
+5. Pesticide paradox
+----------------------
+Repeating the same test cases, again and again, will not find new bugs. 
+So it is necessary to review the test cases and add or update test cases to find new bugs.
+
+6. Testing is context-dependent
+-------------------------------
+The testing approach depends on the context of the software developed. 
+Different types of software need to perform different types of testing. 
+For example, The testing of the e-commerce site is different from the testing of the Android application.
+
+7.Absence of errors fallacy
+---------------------------
+If a built software is 99% bug-free but it does not follow the user requirement then it is unusable. 
+It is not only necessary that software is 99% bug-free but it is also mandatory to fulfill all the customer requirements.
+
+
+
+
 
 
 
