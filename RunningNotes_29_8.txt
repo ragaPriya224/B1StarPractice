@@ -43,6 +43,9 @@ Private Cloud refers to a model of cloud computing where IT services are provisi
 Hybrid Cloud is a cloud computing environment that uses a  mix  of on-premise, private cloud & third party, public cloud services with orchestration between the two platform.
 
 
+-----------Service cloud computing--------------------
 
-
+IAAS -> Infrastructure As a Service 
+PAAS -> Platform as a service 
+SAAS  -> software as a service 
 
