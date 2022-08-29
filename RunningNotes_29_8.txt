@@ -36,6 +36,13 @@ not suitable for confidential info      suitable for confidential info's
 internet                                private network,internet 
 
 
+Public Cloud defined as a computing services offered by third party providers over the public internet, making them available to anyone who wants to use or purchase them
+
+Private Cloud refers to a model of cloud computing where IT services are provisioned over private IT infrastructure for the dedicated use of a single organization.
+
+Hybrid Cloud is a cloud computing environment that uses a  mix  of on-premise, private cloud & third party, public cloud services with orchestration between the two platform.
+
+
 
 
 
