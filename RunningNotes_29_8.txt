@@ -20,3 +20,22 @@ CLOUD COMPUTING -> ON - DEMAND DELIVERY OF IT RESOURCES OVER THE INTERNET AND IT
 SERVICES PROVIDED: DB,SECURITY, SERVER, ...ETC
 COMPANIES USING CLOUD: netflix, insta, spotify etc
 
+MODEL: 
+1`. Service cloud computing
+2. Deployment cloud computing
+
+----------2. Deployment cloud computing---------------------
+public cloud
+private cloud
+hybrid cloud 
+
+
+PUBLIC CLOUD                            PRIVATE CLOUD
+publicly shared resources               privately shared resources
+not suitable for confidential info      suitable for confidential info's 
+internet                                private network,internet 
+
+
+
+
+
