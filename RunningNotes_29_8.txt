@@ -49,3 +49,12 @@ IAAS -> Infrastructure As a Service
 PAAS -> Platform as a service 
 SAAS  -> software as a service 
 
+IAAS - Infrastructure as a Service refers to providing the complete access to the server’s OS . Typically IAAS provides hardware,storage,serversand data center or network components ; it may also include software Eg: Virtual Network
+
+PAAS - In Platform as a service , one does not get access to the whole Operating System. 
+Rather access is given to a dashboard level, where a user uploads data,and the rest is taken care by the local provider
+Ex:HEROKU
+
+SAAS -> DELIVERING SOFTWARE OVER THE INTERNET
+EG: GOOGLESHEETS, GOOGLEDOCS 
+
