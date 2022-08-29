@@ -72,3 +72,9 @@ TOP CLOUD COMPUTING PROVIDERS:
 MICROSOFT AZURE
 AWS (BY AMAZON)
 GOOGLE CLOUD (GCP)
+
+-------------------------------------MICROSOFT AZURE ----------------------------------
+
+It is an open and flexible cloud platform which provides a range of cloud services i.e., helps  in development, data storage, compute,analytics, service hosting, networking and service management. 
+The Azure tool hosts web applications over the internet with the help of Microsoft data centers.
+
