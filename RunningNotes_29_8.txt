@@ -12,5 +12,11 @@ Need server,  (lots of lakhs)
 Manage traffic ,(at a time, lot of people check in )
 monitor/maintain
 Security
-
+we don't have to do all these by ourself. 
 Above all, handled by cloud computing
+
+CLOUD COMPUTING -> ON - DEMAND DELIVERY OF IT RESOURCES OVER THE INTERNET AND IT IS BASED ON PAY AS YOU GO MODEL. 
+
+SERVICES PROVIDED: DB,SECURITY, SERVER, ...ETC
+COMPANIES USING CLOUD: netflix, insta, spotify etc
+
