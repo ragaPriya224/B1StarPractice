@@ -114,7 +114,15 @@ cDN
 traffic manager
 express route
 
+----------------------------------------------AWS-------------------------------------------
 
+aws services?
+-------------
+storage
+database
+compute 
+messaging 
+security aspect
 
 
 
