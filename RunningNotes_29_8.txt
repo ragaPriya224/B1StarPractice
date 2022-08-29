@@ -6,3 +6,11 @@ CLOUD COMPUTING
 phone/simcard/ sync mail :)
 files stored -> google drive
 
+Html,css -> website
+We Wanna launch na
+Need server,  (lots of lakhs)
+Manage traffic ,(at a time, lot of people check in )
+monitor/maintain
+Security
+
+Above all, handled by cloud computing
