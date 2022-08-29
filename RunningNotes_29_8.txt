@@ -1,7 +1,9 @@
 CLOUD COMPUTING
 
-
-
+->Different Cloud environment
+->Basics of AWS
+->Basics of Azure
+-------------------------------------CLOUD COMPUTING BASICS-----------------------------------------------
 
 phone/simcard/ sync mail :)
 files stored -> google drive
@@ -65,3 +67,8 @@ BENEFITS:
 3. SECURITY ASPECT
 4. PRICING 
 
+
+TOP CLOUD COMPUTING PROVIDERS:
+MICROSOFT AZURE
+AWS (BY AMAZON)
+GOOGLE CLOUD (GCP)
