@@ -84,5 +84,37 @@ LOCATIONS
 Azure is present in 160+locations
 
 
+Azure Compute Services
+Compute services provides the building level products, which dictates and determines the execution of an application in Azure platform
+VM
+VM scale set
+Azure container
+container registry
+functions 
+batch
+service fabric
+cloud services
+
+
+Azure storage Services:
+
+blob storage
+table storage
+queue storage
+file storage
+
+
+azure networking services:
+Virtual network 
+load balancer
+application gateway
+vpn gateway
+azure dns
+cDN
+traffic manager
+express route
+
+
+
 
 
