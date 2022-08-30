@@ -1,5 +1,18 @@
 https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
 
+Introduction to SDLC 00 30
+Types of Model in SDLC
+– Waterfall model
+– Iterative model
+– Spiral model
+– V-model
+
+Traditional Methodologies 
+Agile Overview 
+Knowing Scrum 
+Doing Scrum
+
+
 what is sdlc?
 types of sdlc models?
 
@@ -12,3 +25,4 @@ KINDLY IGNORE AGILE HEADING IN BELOW LINKS
 https://existek.com/blog/sdlc-models/    OR
 https://ithoot.com/article/5-main-types-of-sdlc-models-overview  
 
+https://www.youtube.com/watch?v=i-QyW8D3ei0
