@@ -80,4 +80,22 @@ AGILE TEAM -> SINGLE TEAM OF DEV, TESTER, BA
 
 scrum and kanban  -> framework to use agile methodologies 
 
+SPRINT
+product backlog 
+sprint planning 
+
+
+sprint planning MEETING  -> decide 
+
+if sprint is 5 days,  u gonna take leave for 3 days...
+   so, work will be given for only 2 days 
+   
+Daily meeting (15 mins )-> it should occur atleast once in 24 hours 
+
+demo meeting -> 
+
+retrospective meeting -> after the sprint ends. 
+   
+   
+
 
