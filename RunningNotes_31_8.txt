@@ -113,3 +113,18 @@ backlog
 scrum master 
 
 
+-------------TASKS---------------
+
+
+
+what is sdlc?
+types of sdlc models?
+what is Waterfall model
+what is Agile Model?
+how should a Scrum team be?
+Scrum Master role & responsibilities?
+Product owner & responsibilities?
+what are the scrum ceremonies available? and give 2 points about each meeting..like what's the usage of meeting and how frequent it shoul.d happen
+
+try opening a dummy account(not with official account ), and explore JIRA.
+
