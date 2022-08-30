@@ -78,6 +78,6 @@ AGILE TEAM -> SINGLE TEAM OF DEV, TESTER, BA
 
 
 
-
+scrum and kanban  -> framework to use agile methodologies 
 
 
