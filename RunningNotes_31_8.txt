@@ -32,3 +32,19 @@ https://existek.com/blog/sdlc-models/    OR
 https://ithoot.com/article/5-main-types-of-sdlc-models-overview  
 
 https://www.youtube.com/watch?v=i-QyW8D3ei0
+
+
+
+-------------restaurant example ---------
+
+ordered briyani and a icecream
+briyani is taking time to prepare 
+
+case 1: wait 
+briyani and ice cream
+
+case 2: ice cream 
+briyani 
+
+
+
