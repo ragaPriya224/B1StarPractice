@@ -39,12 +39,32 @@ https://www.youtube.com/watch?v=i-QyW8D3ei0
 
 ordered briyani and a icecream
 briyani is taking time to prepare 
+---------- very hungry ----------
+briyani preparation will take 2 hours atleast 
+
 
 case 1: wait 
-briyani and ice cream
+briyani and ice cream   -no 
 
 case 2: ice cream 
-briyani 
+briyani    -yes 
+
+-------------ordering pizza ----------------
+ordered pizza 
+
+
+you're requesting to add an extra toppings 
+case 1(waiter): ok, I will do                   ->YES 
+case 2(waiter): no, i will not do 
+
+------------priority ---------------
+
+breakfast and a desert. 
+
+
+
+
+
 
 
 
