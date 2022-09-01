@@ -11,3 +11,9 @@ DevOps is a set of software development practices that combine software developm
 
 
 I BUILD IT, I RUN IT 
+
+
+Continuous Collaboration Communication
+
+
+DEVOPS -> PHILOSOPHIES, PRACTICES, TOOLS 
