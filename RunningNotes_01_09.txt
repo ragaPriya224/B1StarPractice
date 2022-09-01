@@ -1,3 +1,6 @@
 
 devops ->
 development +operation 
+
+
+diff environments -> dev, qa , stage , prod
