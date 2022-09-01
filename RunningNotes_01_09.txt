@@ -1,19 +1,21 @@
 
 devops ->
 development team 
-
 operations team 
 
 diff environments -> dev, qa , stage , prod
 
-
 DevOps is a set of software development practices that combine software development (Dev) and information technology operations (Ops) to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives.
 
-
 I BUILD IT, I RUN IT 
-
-
 Continuous Collaboration Communication
 
-
 DEVOPS -> PHILOSOPHIES, PRACTICES, TOOLS 
+TAKES COMPLETE RESPONSIBILITY
+
+
+WHAT IS DEVOPS NOT?
+------------------
+not a tool 
+not a tech 
+
