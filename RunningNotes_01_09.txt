@@ -29,7 +29,8 @@ server management:
 developer: full stack/backend/fronte nd 
 devops? programming language + scripting  or atleast a beginner level
 
-GIT: 
+GIT: repository - version control system
+
 
 
 
