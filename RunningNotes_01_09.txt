@@ -140,6 +140,14 @@ logical -> thinking, practice, knowledge
 
 
 
+----------------tasks ---------------
+
+1. what is git?
+2. what is jenkins?
+3. what is devops?
+4. is devops a tool?
+5. is devops a practice?
+6. why to prefer devops?
 
 
 
