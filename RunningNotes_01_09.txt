@@ -27,7 +27,47 @@ server management:
 
 
 developer: full stack/backend/fronte nd 
-devops? programming language + scripting  or atleast a beginner level 
+devops? programming language + scripting  or atleast a beginner level
+
+GIT: 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------to be discussed---------------
+
+git 
