@@ -27,9 +27,35 @@ server management:
 
 
 developer: full stack/backend/fronte nd 
-devops? programming language + scripting  or atleast a beginner level
+devops? PROGRAMMING LANGUAGE  + SCRIPTING  or atleast a beginner level
 
-GIT: repository - version control system
+GIT: repository - version control system   -> time machine
+
+Run it tool?
+JENKINS CI -> continuous integration 
+EG: linux -> open source, world wide, many people will be changing the code simultaneously 
+now, we're having code in git.. but to run our code, we need software requirement like jdk 11, python 3.6.3, or etc
+which we have to mention
+so if we mention -> it will done in a diff server.. and that machine will be of linux/ unix 
+
+that's why we have to learn some UNIX/LINUX COMMANDS 
+
+continuous integration  TOOLS:
+Mail transfer protocols, pass/ fail ,variable issue, case issues,
+delivery is based on the result on the jenkins 
+jenkins-> failed..  ,product cannot be released. 
+
+
+
+MINIMUM NEEDED:
+
+PROGRAMMING LANGUAGE: JAVA/ PYTHON ETC
+LINUX/ UNIX COMMANDS BASIC COMMMANDS 
+GIT
+JENKINS 
+
+
+
 
 
 
