@@ -19,3 +19,15 @@ WHAT IS DEVOPS NOT?
 not a tool 
 not a tech 
 
+DEVOPS:
+development + practices
+
+developer: java/python 
+server management: 
+
+
+developer: full stack/backend/fronte nd 
+devops? programming language + scripting  or atleast a beginner level 
+
+
+
