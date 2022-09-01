@@ -55,6 +55,62 @@ GIT
 JENKINS 
 
 
+LINUX/ UNIX COMMANDS BASIC COMMMANDS -> 
+  read a file
+  navigate to a file 
+  find a content , print 
+
+IDE's?
+eclipse
+spyder
+vscode 
+pycharm ...etc 
+
+maven/ gradle, puppet, ansible  -> configuration management tool
+
+aws: cloud computing, 
+bank project-> updating the balance, withdrawing the money -> basic knowledge about sql queries 
+
+TOP PRIORITY:
+programming language
+linux basic commands
+sql basics 
+
+tools:
+git
+jenkins
+aws 
+
+devops -> vast concept, so u don't have to have deep knowledge about all the concepts 
+
+scripting language:
+log file: 
+windows: powershell, shellscripting ->
+simple -> if , for basic  knowledge is enough 
+logical -> thinking, practice, knowledge
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+  
+  
+  
+   
+
+
 
 
 
