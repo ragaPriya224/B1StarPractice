@@ -1,0 +1,26 @@
+BENEFITS OF DEVO0PS
+
+Continuous software delivery
+Less complexity to manage
+Happier, more productive teams
+Faster delivery of features
+Improved communication and collaboration
+Early detection and faster correction of defects that helps provide the best services
+
+CHALLENGES:
+Infrastructure challenges
+Overcoming the Dev versus Ops mentality
+Too much focus on tools
+Right Skillsets
+Resistance to change
+
+
+Typical DevOps Skills :
+a. Programming Knowledge - Java, Scala, Kotlin, NodeJs, etc.
+a. Continuous Integration Tools.
+b. Containers Knowledge.
+c. SysAdmin.
+d. Security & Monitoring.
+e. Excellent Communication Skills.
+f. Unit & Automation Testing.
+
