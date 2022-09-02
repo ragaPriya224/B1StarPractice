@@ -24,3 +24,10 @@ d. Security & Monitoring.
 e. Excellent Communication Skills.
 f. Unit & Automation Testing.
 
+
+
+TASKS:
+
+1. what is CI?
+2. what is CD?(delivery,deployment)
+3. what is the usage of git?
